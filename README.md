@@ -1,4 +1,5 @@
-[Uploading netflix1.png…]()
+
+![netflix1](https://user-images.githubusercontent.com/61455803/183979874-55ae4527-297b-4b03-b1f8-6139344b1333.png)
 
 
 # Getting Started with Create React App!
